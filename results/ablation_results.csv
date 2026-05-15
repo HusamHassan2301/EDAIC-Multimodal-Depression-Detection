@@ -1,0 +1,6 @@
+Setting,Removed,Modalities,F1,Precision,Recall,AUC,F1_drop,AUC_drop
+Full (text+audio+image+video),None,4,0.6415,0.4722,1.0,0.825,0.0,0.0
+Without text,text,3,0.5152,0.3469,1.0,0.7436,0.1263,0.0814
+Without audio,audio,3,0.5357,0.3846,0.8824,0.7994,0.1058,0.0256
+Without image,image,3,0.4928,0.3269,1.0,0.7979,0.1487,0.0271
+Without video,video,3,0.6667,0.5357,0.8824,0.7813,-0.0252,0.0437
